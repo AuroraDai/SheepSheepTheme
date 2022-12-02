@@ -4,6 +4,10 @@
   "description": "SheepSheepTheme",
   "version": "0.0.1",
 	"publisher":"AuroraDai",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/AuroraDai/SheepSheepTheme"
+  },
 	"keywords":[
 		"theme",
 		"dark theme",
