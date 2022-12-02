@@ -1,0 +1,29 @@
+{
+  "name": "SheepSheepTheme",
+  "displayName": "SheepSheepTheme",
+  "description": "SheepSheepTheme",
+  "version": "0.0.1",
+	"publisher":"AuroraDai",
+	"keywords":[
+		"theme",
+		"dark theme",
+		"sheepsheep",
+		"pink",
+		"pink dark"
+	],
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SheepSheepTheme",
+        "uiTheme": "hc-black",
+        "path": "./themes/SheepSheepTheme-color-theme.json"
+      }
+    ]
+  }
+}
